@@ -1,0 +1,62 @@
+{
+  "name": "Pirate #14",
+  "symbol": "SPB",
+  "description": "They are here to fuck your moms",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/hnvor/metadata-devnet/main/photo_2022-02-04_21-11-33.jpg",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 14,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Level",
+      "value": "69"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}
